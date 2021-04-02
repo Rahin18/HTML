@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color:aliceblue;
+    background-color:black;
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:red;
+}
+a:hover{
+    color:darkorange;
+}
+.d1{
+    text-align: center;
+    display: block;
+    width:50%;
+    margin:auto;
+    font-size: 30px;
+}
+div article{
+    display:block;
+    border-left:5px solid blue;
+    background-color: azure;
+    margin: 25px;
+    font-size: 24px;
+    padding:15px;
+}
+.u1{
+    list-style-type: none;
+    text-align:center;
+    font-size:24px;
+}
+ul li{
+    display:block;
+    margin-bottom: 10px;
+    background-color: white;
+}
